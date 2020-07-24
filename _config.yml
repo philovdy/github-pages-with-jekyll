@@ -12,15 +12,15 @@ description: > # this means to ignore newlines until "show_excerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
-# theme: minima
-minima:
-  skin: dark
+theme: minima
 
 # generate social links in footer
 minima:
   social_links:
     twitter: jekyllrb
     github:  jekyll
+  
+  skin: dark
 
 #     twitter_username: jekyllrb
 #     github_username:  jekyll
