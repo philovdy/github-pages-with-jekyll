@@ -13,6 +13,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 
 # generate social links in footer
 minima:
