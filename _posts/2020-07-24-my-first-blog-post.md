@@ -1,6 +1,6 @@
 ---
 title: "1st Blog Post"
-date: 2020-24-07
+date: 2020-07-24
 ---
 
 ### Remember this can always be edited !!!
