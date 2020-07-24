@@ -1,7 +1,7 @@
 title: Bits and Bytes
 author: 
-  name: 'Philo Vdy'
-  email: 'philo.vdy@gmail.com'
+name: 'Philo Vdy'
+email: 'philo.vdy@gmail.com'
 
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -13,8 +13,11 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # generate social links in footer
 social_links:
   rss: rss
-  twitter: jekyllrb
-  github:  jekyll
+  # twitter: jekyllrb
+  # github:  jekyll
+  twitter_username: jekyllrb
+  github_username:  jekyll
+  
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
