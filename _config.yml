@@ -20,7 +20,7 @@ minima:
     twitter: jekyllrb
     github:  jekyll
   
-  skin: solarized
+  skin: solarized-dark
 
 #     twitter_username: jekyllrb
 #     github_username:  jekyll
