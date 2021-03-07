@@ -6,8 +6,6 @@ meta: "Github, Skyline"
 date: 2021-03-07
 ---
 
-<script src="https://embed.github.com/view/3d/vidyabhandary/blog/images/vidyabhandary-2019.stl"></script>
-
 <script src="https://embed.github.com/view/3d/vidyabhandary/blog/master/images/vidyabhandary-2019.stl"></script>
 
 ### Github Skyline for 2019
